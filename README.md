@@ -1,2 +1,2 @@
 # web_development
-This is my second repository
+This is my second repository.
